@@ -3,7 +3,7 @@ package LinkedList;// Java Program to insert the node at the beginning of
 
 class Node {
     int data;   // Data stored in the node
-    Node next;  // Pointer to the next node in the list
+    CircularCheck next;  // Pointer to the next node in the list
 
     // Constructor to initialize the node
     Node(int new_data) {
@@ -14,9 +14,9 @@ class Node {
 
 public class GFG {
     // Function to insert a new node at the beginning of the list
-    public static Node insertAtFront(Node head, int new_data) {
+    public static CircularCheck insertAtFront(CircularCheck head, int new_data) {
         // Create a new node with the given data
-        Node new_node = new Node(new_data);
+        CircularCheck new_node = new CircularCheck(new_data);
 
         // Make the next of the new node point to the current head
         new_node.next = head;
@@ -26,9 +26,9 @@ public class GFG {
     }
 
     // Function to print the contents of the linked list
-    public static void printList(Node head) {
+    public static void printList(CircularCheck head) {
         // Start from the head of the list
-        Node curr = head;
+        CircularCheck curr = head;
 
         // Traverse the list
         while (curr != null) {
@@ -46,10 +46,10 @@ public class GFG {
     // Driver code to test the functions
     public static void main(String[] args) {
         // Create the linked list 2->3->4->5
-        Node head = new Node(2);
-        head.next = new Node(3);
-        head.next.next = new Node(4);
-        head.next.next.next = new Node(5);
+        CircularCheck head = new CircularCheck(2);
+        head.next = new CircularCheck(3);
+        head.next.next = new CircularCheck(4);
+        head.next.next.next = new CircularCheck(5);
 
         // Print the original list
         System.out.println("Original Linked List:");

@@ -13,7 +13,7 @@ class CircularCheck {
     }
 }
 
-class GfG {
+class CircularDemo {
 
     // Function to check if the linked list is circular
     static boolean isCircular(CircularCheck head) {
