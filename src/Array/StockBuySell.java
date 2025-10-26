@@ -1,7 +1,7 @@
 package Array;
 
 public class StockBuySell {
-    // Method to calculate maximum profit
+    // Method to calculate maximum profitStock Buy and Sell Problem (Part 1)
     int maxProfit(int[] prices) {
         if (prices == null || prices.length == 0) {
             return 0; // No prices means no profit
