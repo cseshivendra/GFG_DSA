@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd6c585a-80d9-4cbe-b282-4cffe63a7640" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Array/ArrayInitialisation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Insertion.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Array/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array/ArrayInsertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/ArrayInsertion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array/FrequencyCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/FrequencyCount.java" afterDir="false" />
@@ -56,6 +52,7 @@
     "Application.FrequencyCount.executor": "Run",
     "Application.GFG.executor": "Run",
     "Application.GfG.executor": "Run",
+    "Application.Insertion.executor": "Run",
     "Application.KnightTour.executor": "Run",
     "Application.ReversedCyclic.executor": "Run",
     "Application.StockBuySell.executor": "Run",
