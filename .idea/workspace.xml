@@ -11,6 +11,10 @@
       <change afterPath="$PROJECT_DIR$/src/Array/FirstandLastPosition.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Array/Insertion.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Array/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/StocksBuySell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/WordCount.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Collection/LargestNo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Collection/LastWordLength.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Collection/MapDemo.java" afterDir="false" />
@@ -50,43 +54,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.ArrayInitialisation.executor": "Run",
-    "Application.ArrayInsertion.executor": "Debug",
-    "Application.ArrayMethods.executor": "Run",
-    "Application.CircularDemo.executor": "Run",
-    "Application.CollectionDemo.executor": "Run",
-    "Application.Collections.executor": "Run",
-    "Application.CollectionsDemo.executor": "Run",
-    "Application.FrequencyCount.executor": "Run",
-    "Application.GFG.executor": "Run",
-    "Application.GfG.executor": "Run",
-    "Application.Insertion.executor": "Run",
-    "Application.KnightTour.executor": "Run",
-    "Application.LargestNo.executor": "Run",
-    "Application.LastWordLength.executor": "Run",
-    "Application.MapDemo.executor": "Run",
-    "Application.Maxconsecutive.executor": "Debug",
-    "Application.ReversedCyclic.executor": "Run",
-    "Application.SecondLargest.executor": "Run",
-    "Application.StockBuySell.executor": "Run",
-    "Application.TrappingRainWater.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Devendra Singh/Documents/GFG_DSA/TCS_Rest/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.ArrayInitialisation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayInsertion.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ArrayMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CircularDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Collections.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrequencyCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GFG.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GfG.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Insertion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KnightTour.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestNo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LastWordLength.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSubArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maxconsecutive.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReversedCyclic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StockBuySell.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrappingRainWater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordCount.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Devendra Singh/Documents/GFG_DSA/TCS_Rest/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.FrequencyCount">
     <configuration name="FrequencyCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.FrequencyCount" />
       <module name="GFG_DSA" />
@@ -113,6 +120,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.SortArray" />
+      <module name="GFG_DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StockBuySell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.StockBuySell" />
       <module name="GFG_DSA" />
@@ -128,8 +148,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LastWordLength" />
         <item itemvalue="Application.FrequencyCount" />
+        <item itemvalue="Application.SortArray" />
+        <item itemvalue="Application.LastWordLength" />
         <item itemvalue="Application.StockBuySell" />
       </list>
     </recent_temporary>
@@ -182,6 +203,20 @@
           <url>file://$PROJECT_DIR$/TCS_Rest/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/SortArray.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Array/SortArray.java</url>
+          <line>21</line>
+          <properties class="Array.SortArray" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
